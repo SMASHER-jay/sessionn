@@ -60,7 +60,7 @@ router.get('/', async (req, res) => {
 	
 				   let WASI_MD_TEXT = `
 ┏━━━━━━━━━━━━━━
-┃𝐉𝐀𝐂𝐊𝐈𝐄 𝐌𝐃 SESSION IS 
+┃𝐌𝐀𝐑𝐈𝐎𝐍 𝐗 SESSION IS 
 ┃SUCCESSFULLY
 ┃CONNECTED ✅🔥
 ┗━━━━━━━━━━━━━━━
