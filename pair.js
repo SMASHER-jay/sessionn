@@ -58,18 +58,20 @@ router.get('/', async (req, res) => {
 
                let GIFTED_MD_TEXT = `
 ┏━━━━━━━━━━━━━━
-┃𝐉𝐀𝐂𝐊𝐈𝐄 𝐌𝐃 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 𝐈𝐒 
-┃SUCCESSFULLY
-┃CONNECTED ✅🔥
+┃𝐌𝐀𝐑𝐈𝐎𝐍 𝐗 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 𝐈𝐒 
+┃𝐒𝐔𝐂𝐂𝐄𝐒𝐒𝐅𝐔𝐋𝐋𝐘
+┃𝐂𝐎𝐍𝐍𝐄𝐂𝐓𝐄𝐃 ✅🔥
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ❶ || Creator = 𖥘 𝐉𝐀𝐂𝐊𝐒 𖥘
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❷ || WhattsApp Channel = https://whatsapp.com/channel/0029Vb58ejm35fLoqYxEhn3r
+❷ || WhattsApp 𝐆𝐑𝐎𝐔𝐏 = https://whatsapp.com/channel/0029Vb58ejm35fLoqYxEhn3r
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 Please Follow My Support Channel
 Wanna talk to me?👉 https://api.whatsapp.com/send?phone=254796087764 👈
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+⎒⎅ 𝐑𝐄𝐏𝐎⍈⍈
+https://github.com/marion-jacks/marionx
 ©*2025-2099 jacks mohaaz*
 
 _Don't Forget To Give Star To My Repo_`
