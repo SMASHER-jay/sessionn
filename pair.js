@@ -58,21 +58,21 @@ router.get('/', async (req, res) => {
 
                let GIFTED_MD_TEXT = `
 ┏━━━━━━━━━━━━━━
-┃𝐉𝐀𝐂𝐊𝐈𝐄 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 𝐈𝐒 
+┃𝐉𝐀𝐌𝐄𝐒 𝐌𝐃 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 𝐈𝐒 
 ┃𝐒𝐔𝐂𝐂𝐄𝐒𝐒𝐅𝐔𝐋𝐋𝐘
 ┃𝐂𝐎𝐍𝐍𝐄𝐂𝐓𝐄𝐃 ✅🔥
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❶ || Creator = 𖥘 𝐉𝐀𝐂𝐊𝐒 𖥘
+❶ || Creator = 𖥘 𝐉𝐀𝐌𝐄𝐒 𖥘
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❷ || 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 = https://whatsapp.com/channel/0029Vb58ejm35fLoqYxEhn3r
+❷ || 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 = https://whatsapp.com/channel/0029VaogSY74IBhJWe8b472H
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 Please Follow My Support Channel
-Wanna talk to me?👉 https://api.whatsapp.com/send?phone=254796087764 👈
+Wanna talk to me?👉 https://api.whatsapp.com/send?phone=254781351479 👈
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ⎒⎅ 𝐑𝐄𝐏𝐎⍈⍈
-https://github.com/SMASHER-jay/Jackie
-©*2025-2099 jacks mohaaz*
+https://github.com/jtechde/james
+©*2025-2099 𝐉𝐀𝐌𝐄𝐒 𝐓𝐄𝐂𝐇*
 
 _Don't Forget To Give Star To My Repo_`
  await Pair_Code_By_Gifted_Tech.sendMessage(Pair_Code_By_Gifted_Tech.user.id,{text:GIFTED_MD_TEXT},{quoted:session})
