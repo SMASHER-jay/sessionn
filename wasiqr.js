@@ -60,19 +60,19 @@ router.get('/', async (req, res) => {
 	
 				   let WASI_MD_TEXT = `
 ┏━━━━━━━━━━━━━━
-┃𝐉𝐀𝐂𝐊𝐈𝐄 𝐌𝐃 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 𝐈𝐒 
+┃𝐉𝐀𝐌𝐄𝐒 𝐌𝐃 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 𝐈𝐒 
 ┃SUCCESSFULLY
 ┃CONNECTED ✅🔥
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❶ || Creator = 𖥘 𝐣𝐚𝐜𝐤𝐬 𝐦𝐨𝐡𝐚𝐚 𖥘
+❶ || Creator = 𖥘JAMES TECH𖥘
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❷ || WhattsApp Channel = https://whatsapp.com/channel/0029Vb58ejm35fLoqYxEhn3r
+❷ || WhattsApp Channel = https://whatsapp.com/channel/0029VaogSY74IBhJWe8b472H
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-Please Follow My Support Channel
-Wanna talk to me?👉 254796087764👈
+Please Follow My Support Channel✌️
+Wanna talk to me?👉 254781351479👈
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-©*2025-2099 jacks mohaa*
+©*2025-2099 JAMES TECH*
 _____________________________________
 	
 _Don't Forget To Give Star To My Repo_`
